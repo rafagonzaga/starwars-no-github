@@ -11,9 +11,9 @@ Moff ahsoka yavin calamari. Chewbacca skywalker yoda organa kit organa. Hutt hut
 
 let HomeSectionTwo = `
 <section class="section background--two" style="background-image: url(${backgroundTwo})">
-    <div>
+    <div class="block-section--two">
         <img src=${dartVader} alt="Vader" width="300px" height="auto">
-        <div>
+        <div "text-block--two">
             <p>${TextContent}</p>
         </div>
     </div>
