@@ -20,6 +20,6 @@ Para iniciar em modo desenvolvimento:
 
 Para instalar o node [clique aqui](https://nodejs.org/en/)
 
-Veja o projeto online [clique aqui](https://x.com.br)
+Veja o projeto online [clique aqui](https://starwars-no-github-ehwvskr4x-rafagonzaga.vercel.app/)
 
 ### Professor Douglas Morais
